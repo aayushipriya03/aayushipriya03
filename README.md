@@ -1,8 +1,8 @@
 ### Hey, I'm Aayushi  👋
-
- 
 <img src="https://komarev.com/ghpvc/?username=aayushipriya03&label=PEOPLE%20VISIT%20THIS%20PROFILE&color=blueviolet&style=flat-square" alt="saikatbishal github profil visit" />
 
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ 
 ##  Open-Source enthusiast || Coder!!
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
